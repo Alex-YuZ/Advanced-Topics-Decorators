@@ -1,8 +1,4 @@
-
-INFO:root:Running 'add' with arguments (3, 4)
-INFO:root:Running 'sub' with arguments (3, 4)
-INFO:root:Running 'add' with arguments (5, 6)
-INFO:root:Running 'sub' with arguments (7, 6)
-INFO:root:Run with args: ('John', 33) and kwargs: {}
-INFO:root:Run with args: ('John', 33) and kwargs: {}
-INFO:root:Run with args: ('Alex', 32) and kwargs: {}
+INFO:root:Run with args: ('Bold', 'M', 32) and kwargs: {}
+INFO:root:Run with args: ('Bold', 'M', 32) and kwargs: {}
+INFO:root:Run with args: ('Bold', 'M', 32) and kwargs: {}
+INFO:root:Run with args: ('Bold', 'M', 32) and kwargs: {}
